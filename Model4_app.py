@@ -6,8 +6,8 @@ import pickle
 
 import streamlit as st
 
-#pickle_in = open(r"C:\Users\Aman\Seismic Model\reg.pkl", "rb") 
-#magni = pickle.load(pickle_in)
+pickle_in = open(r"C:\Users\Aman\Seismic Model\reg.pkl", "rb") 
+magni = pickle.load(pickle_in)
 
 #Latitude = 2.25
 #Longitude = 5.89
